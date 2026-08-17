@@ -2,6 +2,10 @@ version = 1
 revision = 3
 requires-python = ">=3.12"
 
+[options]
+exclude-newer = "2026-08-10T18:18:46.776280187Z"
+exclude-newer-span = "P7D"
+
 [[package]]
 name = "jinja2"
 version = "3.1.6"
