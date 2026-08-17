@@ -62,7 +62,7 @@ header {
 footer {
 	font-size: var(--fs-small);
 	text-align: center;
-	width: 75%;
+	width: 50%;
     margin: var(--space-double) auto;
 }
 
