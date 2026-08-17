@@ -61,7 +61,9 @@ header {
 
 footer {
 	font-size: var(--fs-small);
-	margin: var(--space-double) 0;
+	text-align: center;
+	width: 75%;
+    margin: var(--space-double) auto;
 }
 
 main {
