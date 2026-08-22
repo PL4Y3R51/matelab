@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "*.jinja2": "html"
-    }
+	},
+	"files.eol": "\n"
 }
