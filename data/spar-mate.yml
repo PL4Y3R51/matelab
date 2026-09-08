@@ -1,11 +1,11 @@
 draft: false 
 discontinued: false 
 brand: Spar 
-product: Energy with origin Mate 
+product: Mate 
 size: 330
 packaging: Can
 caffeine: 23 
-sugar: 5.8 
+sugar: 5.6
 ingredients: 
     - "Aufguss aus Mate (Wasser, Mate-Tee) 91%"
     - "Zucker"
@@ -18,5 +18,5 @@ stores:
         url: https://www.spar.ch/ 
         price: 1 
         amount: 1 
-        date: 08.09.2026 
+        date: 2026-09-08
         comment: 
